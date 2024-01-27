@@ -1,0 +1,5 @@
+com.example.androidattendancesystem.test.app-androidTest-0 C:\Users\user\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\build\generated\res\resValues\androidTest\debug
+com.example.androidattendancesystem.test.app-androidTest-1 C:\Users\user\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\build\generated\res\rs\androidTest\debug
+com.example.androidattendancesystem.test.app-mergeDebugAndroidTestResources-2 C:\Users\user\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.androidattendancesystem.test.app-mergeDebugAndroidTestResources-3 C:\Users\user\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.androidattendancesystem.test.app-merged_res-4 C:\Users\user\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\build\intermediates\merged_res\debugAndroidTest

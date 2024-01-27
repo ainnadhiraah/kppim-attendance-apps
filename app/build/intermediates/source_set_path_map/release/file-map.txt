@@ -1,0 +1,11 @@
+com.example.androidattendancesystem.app-pngs-0 C:\Users\user\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\build\generated\res\pngs\release
+com.example.androidattendancesystem.app-resValues-1 C:\Users\user\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\build\generated\res\resValues\release
+com.example.androidattendancesystem.app-rs-2 C:\Users\user\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\build\generated\res\rs\release
+com.example.androidattendancesystem.app-mergeReleaseResources-3 C:\Users\user\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.androidattendancesystem.app-mergeReleaseResources-4 C:\Users\user\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.androidattendancesystem.app-merged_res-5 C:\Users\user\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\build\intermediates\merged_res\release
+com.example.androidattendancesystem.app-main-6 C:\Users\user\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\main\res
+com.example.androidattendancesystem.app-release-7 C:\Users\user\Downloads\Android-Attendance-App-2023\Android-Attendance-App-2023\app\src\release\res
+com.example.androidattendancesystem.app-support-compat-28.0.0-8 D:\caches\transforms-3\0b22a6b07b3e498281e2fdb9d93c9c6b\transformed\support-compat-28.0.0\res
+com.example.androidattendancesystem.app-coordinatorlayout-28.0.0-9 D:\caches\transforms-3\568c762957e87adb25eac94f3bddea2d\transformed\coordinatorlayout-28.0.0\res
+com.example.androidattendancesystem.app-support-media-compat-28.0.0-10 D:\caches\transforms-3\a86a7444f7d83d25c50beb253e0687e6\transformed\support-media-compat-28.0.0\res
